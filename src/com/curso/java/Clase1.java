@@ -15,7 +15,7 @@ public class Clase1 {
 	   }else if (Edad >= 60 && Edad<= 120) {
 		   EdadStr = "Anciano";
 	   }else if (Edad>=121)
-		EdadStr="Sanstastico guesudo";
+		EdadStr="MEMES,THE DNA OF SOUL";
 		System.out.println(nombre + " tiene " + Edad + " años, es un " + EdadStr + "." );
 		
 	}
